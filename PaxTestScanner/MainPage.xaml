@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PaxTestScanner.MainPage"
+             xmlns:zxing="clr-namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms"
+             xmlns:zxcm="clr-namespace:ZXing.Common;assembly=zxing.portable">
+
+    <StackLayout>
+        <zxing:ZXingScannerView  
+            x:Name="BarcodeScanner" 
+            OnScanResult="BarcodeScanner_OnScanResult" 
+            IsScanning="true"
+            IsAnalyzing="True" 
+            Margin="0" 
+            HorizontalOptions="FillAndExpand" 
+            VerticalOptions="FillAndExpand"/>
+       
+        <Label x:Name="resultText" Text="{Binding ScanValue}" TextColor="Black" />
+        <Button Text="Clear" Clicked="Button_Clicked" />
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,14 @@
+C:\Users\EBradshaw\source\repos\PaxTestScanner\PaxTestScanner\PaxTestScanner\bin\Debug\netstandard2.0\PaxTestScanner.deps.json
+C:\Users\EBradshaw\source\repos\PaxTestScanner\PaxTestScanner\PaxTestScanner\bin\Debug\netstandard2.0\PaxTestScanner.dll
+C:\Users\EBradshaw\source\repos\PaxTestScanner\PaxTestScanner\PaxTestScanner\bin\Debug\netstandard2.0\ref\PaxTestScanner.dll
+C:\Users\EBradshaw\source\repos\PaxTestScanner\PaxTestScanner\PaxTestScanner\bin\Debug\netstandard2.0\PaxTestScanner.pdb
+C:\Users\EBradshaw\source\repos\PaxTestScanner\PaxTestScanner\PaxTestScanner\obj\Debug\netstandard2.0\PaxTestScanner.csprojAssemblyReference.cache
+C:\Users\EBradshaw\source\repos\PaxTestScanner\PaxTestScanner\PaxTestScanner\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EBradshaw\source\repos\PaxTestScanner\PaxTestScanner\PaxTestScanner\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EBradshaw\source\repos\PaxTestScanner\PaxTestScanner\PaxTestScanner\obj\Debug\netstandard2.0\PaxTestScanner.AssemblyInfoInputs.cache
+C:\Users\EBradshaw\source\repos\PaxTestScanner\PaxTestScanner\PaxTestScanner\obj\Debug\netstandard2.0\PaxTestScanner.AssemblyInfo.cs
+C:\Users\EBradshaw\source\repos\PaxTestScanner\PaxTestScanner\PaxTestScanner\obj\Debug\netstandard2.0\PaxTestScanner.csproj.CoreCompileInputs.cache
+C:\Users\EBradshaw\source\repos\PaxTestScanner\PaxTestScanner\PaxTestScanner\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EBradshaw\source\repos\PaxTestScanner\PaxTestScanner\PaxTestScanner\obj\Debug\netstandard2.0\PaxTestScanner.dll
+C:\Users\EBradshaw\source\repos\PaxTestScanner\PaxTestScanner\PaxTestScanner\obj\Debug\netstandard2.0\ref\PaxTestScanner.dll
+C:\Users\EBradshaw\source\repos\PaxTestScanner\PaxTestScanner\PaxTestScanner\obj\Debug\netstandard2.0\PaxTestScanner.pdb
